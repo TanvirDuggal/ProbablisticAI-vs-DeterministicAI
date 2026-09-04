@@ -1,0 +1,6 @@
+engines/stockfish/
+engines/stockfish/*.exe
+__pycache__/
+*.pyc
+.env
+engines/stockfish/
