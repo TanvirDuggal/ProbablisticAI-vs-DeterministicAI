@@ -1,5 +1,7 @@
 # Stockfish vs LLM Chess Gameplay Framework
 
+# PDF Link : https://www.academia.edu/176084511/Deterministic_AI_vs_Probabilistic_AI_Comparing_Stockfish_and_LLM_Based_Chess_Gameplay
+
 This project implements an automated chess gameplay framework for comparing a deterministic search-based chess engine, Stockfish, with an LLM-based probabilistic chess agent using ChatGPT. The system allows both agents to play chess against each other under controlled configurations while logging moves and final game outcomes for post-game analysis.
 
 The main objective of this project is to study the difference between traditional chess-engine decision-making and LLM-based move generation. Stockfish selects moves through deterministic search, pruning, and board evaluation, while the LLM-based agent generates moves using previous move history, legal move information, and prompt-based reasoning.
